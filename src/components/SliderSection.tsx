@@ -468,7 +468,7 @@ const SliderSection: React.FC<SliderSectionProps> = ({
         height: 600,
       },
       afterImage: {
-        src: "/images/afterImage1.jpg",
+        src: "/images/AfterImage1.jpg",
         alt: "Clean car interior after professional detailing",
         width: 800,
         height: 600,
