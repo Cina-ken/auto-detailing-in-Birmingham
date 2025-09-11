@@ -462,7 +462,7 @@ const SliderSection: React.FC<SliderSectionProps> = ({
       id: "interior",
       title: "Interior Deep Clean",
       beforeImage: {
-        src: "/Images/BeforeImage1.jpg",
+        src: "/images/BeforeImage1.jpg",
         alt: "Dirty car interior before deep cleaning",
         width: 800,
         height: 600,
