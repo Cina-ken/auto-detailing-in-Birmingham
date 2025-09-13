@@ -67,7 +67,7 @@ const Gallery = () => {
       id: 5,
       title: "Performance Wheels & Tire Detailing",
       category: "wheels",
-      beforeImage: "/images/Wheels.jpg",
+      beforeImage: "/images/wheels.jpg",
       description: "Deep cleaning and protection for high-performance wheels",
       tags: ["wheels", "performance", "tires", "cleaning"],
       isBeforeAfter: false
